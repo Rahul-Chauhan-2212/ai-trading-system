@@ -1,0 +1,15 @@
+pandas
+numpy
+yfinance
+sqlalchemy
+psycopg2-binary
+streamlit
+plotly
+ta
+transformers
+torch
+python-telegram-bot
+fastapi
+uvicorn
+python-dotenv
+schedule
