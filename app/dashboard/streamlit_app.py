@@ -4,7 +4,6 @@ from datetime import datetime
 import streamlit as st
 
 from app.ingestion.scheduler import run_scheduler
-
 from app.main import run
 
 # -----------------------------
